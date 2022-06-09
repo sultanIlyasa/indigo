@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profpic.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -43,10 +43,10 @@ email: sultanaly13@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Sultan Ilyasa
+    bio: Software Engineer || Full-Stack Website Developer
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profpic.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
