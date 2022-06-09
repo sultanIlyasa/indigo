@@ -37,7 +37,7 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 instagram: sultansai_
-linkedin: Sultan Ilyasa
+linkedin: sultan-ilyasa-ab712516b
 github: sultanIlyasa
 email: sultanaly13@gmail.com
 
@@ -79,7 +79,6 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
 
 # related posts inside a post?
 related: true
